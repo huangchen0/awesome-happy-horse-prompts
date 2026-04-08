@@ -13,7 +13,6 @@ Este repositorio se centra en **prompts de happy horse 1.0 de alta fidelidad** o
 Nota: para preservar la reproducibilidad, muchos bloques de prompt se mantienen en su ingles original.
 
 ### Patrocinador: [Accede ahora a happy horse 1.0 en happyhorse](https://happy-horse.pro?utm_source=awesome-happy horse)
-[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/45e5d350-2b77-4bec-b55f-65a5a2ecbde1" />](https://happy-horse.pro?utm_source=awesome-happy horse)
 
 ## 📖 Tabla de contenidos
 

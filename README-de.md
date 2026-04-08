@@ -13,7 +13,6 @@ Dieses Repository konzentriert sich auf **hochwertige happy horse-2.0-Prompts** 
 Hinweis: Um die Reproduzierbarkeit zu bewahren, bleiben viele Prompt-Codebloecke im englischen Original.
 
 ### Sponsor: [happy horse 1.0 jetzt auf happyhorse nutzen!](https://happy-horse.pro?utm_source=awesome-happy horse)
-[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/45e5d350-2b77-4bec-b55f-65a5a2ecbde1" />](https://happy-horse.pro?utm_source=awesome-happy horse)
 
 ## 📖 Inhaltsverzeichnis
 

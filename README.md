@@ -12,7 +12,6 @@ This repository focuses on **high-fidelity happy horse 1.0 prompts** sourced fro
 
 
 ### Sponsor: [Access happy horse 1.0 Now on happyhorse!](https://happy-horse.pro?utm_source=awesome-happy horse)
-[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/45e5d350-2b77-4bec-b55f-65a5a2ecbde1" />](https://happy-horse.pro?utm_source=awesome-happy horse)
 
 
 ## 📖 Table of Contents

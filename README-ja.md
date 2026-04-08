@@ -13,7 +13,6 @@ Last updated on 2026-04-08 13-23-43
 注記: 再現性を保つため、多くのプロンプトコードブロックは原文の英語のまま残しています。
 
 ### スポンサー: [happyhorse で happy horse 1.0 を今すぐ使う](https://happy-horse.pro?utm_source=awesome-happy horse)
-[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/45e5d350-2b77-4bec-b55f-65a5a2ecbde1" />](https://happy-horse.pro?utm_source=awesome-happy horse)
 
 ## 📖 目次
 

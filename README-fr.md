@@ -13,7 +13,6 @@ Ce depot se concentre sur des **prompts happy horse 1.0 haute fidelite** provena
 Remarque : afin de preserver la reproductibilite, de nombreux blocs de prompt restent en anglais dans leur formulation d'origine.
 
 ### Sponsor : [Accedez a happy horse 1.0 maintenant sur happyhorse !](https://happy-horse.pro?utm_source=awesome-happy horse)
-[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/45e5d350-2b77-4bec-b55f-65a5a2ecbde1" />](https://happy-horse.pro?utm_source=awesome-happy horse)
 
 ## 📖 Table des matieres
 
