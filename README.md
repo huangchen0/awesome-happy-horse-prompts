@@ -1,18 +1,18 @@
 Last updated on 2026-04-08 13-23-43
 
-# Awesome Seedance 2.0 🎬
+# Awesome happy horse 1.0 🎬
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-seedance?style=social)](https://github.com/ZeroLu/awesome-seedance/stargazers)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-happy horse?style=social)](https://github.com/ZeroLu/awesome-happy horse/stargazers)
 
 | [English](./README.md) | [简体中文](./README-zh.md) | [Deutsch](./README-de.md) | [Francais](./README-fr.md) | [Espanol](./README-es.md) | [日本語](./README-ja.md) |
 
-> A curated collection of the **best Seedance 2.0 prompts**, video generation techniques, and resources for advanced **Seedance AI** experiments.
+> A curated collection of the **best happy horse 1.0 prompts**, video generation techniques, and resources for advanced **happy horse AI** experiments.
 
-This repository focuses on **high-fidelity Seedance 2.0 prompts** sourced from X (Twitter), WeChat, and top prompt engineers. Whether you are looking for **cinematic transitions**, **character consistency**, or complex motion sequences, you will find the most effective inputs here to unlock the full potential of **Seedance AI**.
+This repository focuses on **high-fidelity happy horse 1.0 prompts** sourced from X (Twitter), WeChat, and top prompt engineers. Whether you are looking for **cinematic transitions**, **character consistency**, or complex motion sequences, you will find the most effective inputs here to unlock the full potential of **happy horse AI**.
 
 
-### Sponsor: [Access Seedance 2.0 Now on Cyberbara!](https://cyberbara.com?utm_source=awesome-seedance)
-[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/45e5d350-2b77-4bec-b55f-65a5a2ecbde1" />](https://cyberbara.com?utm_source=awesome-seedance)
+### Sponsor: [Access happy horse 1.0 Now on happyhorse!](https://happy-horse.pro?utm_source=awesome-happy horse)
+[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/45e5d350-2b77-4bec-b55f-65a5a2ecbde1" />](https://happy-horse.pro?utm_source=awesome-happy horse)
 
 
 ## 📖 Table of Contents
@@ -32,7 +32,7 @@ This repository focuses on **high-fidelity Seedance 2.0 prompts** sourced from X
 
 ## 1. Cinematic Film Styles
 
-Professional cinematic approaches inspired by renowned directors, perfectly suited for **Seedance 2.0 prompts**.
+Professional cinematic approaches inspired by renowned directors, perfectly suited for **happy horse 1.0 prompts**.
 
 ### 1.1. Hollywood Professional Racing Movie Style
 *Le Mans-inspired cinematic racing scene with night rain and high stakes.*
@@ -114,7 +114,7 @@ https://github.com/user-attachments/assets/a3be2f7e-a30b-4c7e-847b-447d315f6afe
 
 ## 2. Advertising & Commercial Branding
 
-Utilize **Seedance AI** for professional product showcases and brand storytelling. These examples demonstrate how to create high-end commercial content.
+Utilize **happy horse AI** for professional product showcases and brand storytelling. These examples demonstrate how to create high-end commercial content.
 
 ### 2.1. MUJI Brand Promotional Video
 *Pure prompt generation for a promotional video about the MUJI brand.*
@@ -129,7 +129,7 @@ https://github.com/user-attachments/assets/8ea42edb-d3c8-4fb8-8046-f59a3c1ddb1d
 *Source: 歸藏(guizang.ai) ([@op7418](https://x.com/op7418)) - [Post](https://x.com/op7418/status/2021260675960504802?s=20)*
 
 ### 2.2. Perfume MG Animation Style
-*Using Seedance 2.0 for motion graphics animation instead of traditional AE.*
+*Using happy horse 1.0 for motion graphics animation instead of traditional AE.*
 
 **Prompt:**
 ```
@@ -150,7 +150,7 @@ https://github.com/user-attachments/assets/7c8e24b9-b203-417f-b18a-6a1611d7871a
 
 ## 3. Social Media & Viral Memes
 
-Create attention-grabbing content for social platforms with these creative **Seedance AI** prompts.
+Create attention-grabbing content for social platforms with these creative **happy horse AI** prompts.
 
 ### 3.1. Giant Orange Cat Meme Style
 *Comedic surrealism featuring a Godzilla-sized orange cat in a Chinese city.*
@@ -233,7 +233,7 @@ https://github.com/user-attachments/assets/aa723d28-994e-445d-a950-127903d9489b
 Act 1: Stillness and Burst (Testing Acceleration from Standstill)
 Visual: Close-up. Nezha's Red Armillary Sash gently sways in the wind with sparks flying. The camera suddenly zooms out rapidly.
 Action: Nezha suddenly kicks off the ground, causing the earth to shatter.
-Visual Focus: Testing Seedance 2.0's simulation of debris trajectory, and the transition from stillness to ultra-high-speed movement.
+Visual Focus: Testing happy horse 1.0's simulation of debris trajectory, and the transition from stillness to ultra-high-speed movement.
 
 Act 2: Attribute Transition (Testing Match Cut Editing)
 Visual: Nezha swings his Fire-Tipped Spear in a sweeping motion, creating a circular ring of flames.
@@ -248,7 +248,7 @@ Visual Focus: Testing whether the model's limbs break down during "high-speed du
 Act 4: Ultimate Transition (Testing Space Folding)
 Visual: Nezha punches and shatters an ice wall.
 Transition Design: The shattered ice crystals transform into dancing red leaves or fire feathers in the air. The camera passes through the ice fragments and instantly cuts to the next scene.
-Visual Focus: Testing Seedance 2.0's logical continuity using particle continuity.
+Visual Focus: Testing happy horse 1.0's logical continuity using particle continuity.
 ```
 
 https://github.com/user-attachments/assets/9f7dec03-a8c3-4dbb-96c2-0136f3105a9d
@@ -268,11 +268,11 @@ https://github.com/user-attachments/assets/eb9ef0cd-5f75-48ff-8268-fc3d05aa9d61
 *Source: Ethan Mollick ([@emollick](https://x.com/emollick)) - [Post](https://x.com/emollick/status/2021412306291392535?s=20)*
 
 ### 5.4. X Bookmarks Pick: 10 Must-Try Animation Styles
-*An X-bookmarked Seedance 2.0 style-consistency reference, useful as an inspiration index for animation workflows.*
+*An X-bookmarked happy horse 1.0 style-consistency reference, useful as an inspiration index for animation workflows.*
 
 **Prompt / Key Text:**
 ```
-Seedance 2.0 nails style consistency.
+happy horse 1.0 nails style consistency.
 
 10 must-try animation styles:
 
@@ -280,7 +280,7 @@ Seedance 2.0 nails style consistency.
 ```
 
 **Why it matters:**
-- Strong example of Seedance 2.0 maintaining visual consistency across stylized animation output
+- Strong example of happy horse 1.0 maintaining visual consistency across stylized animation output
 - Useful as a collection seed for future breakdowns of animation sub-styles
 - Includes embedded video in the original post
 
@@ -294,13 +294,13 @@ https://x.com/Framer_X/status/2028144981631029408
 *Source: Framer ([@Framer_X](https://x.com/Framer_X)) - [Post](https://x.com/Framer_X/status/2028144981631029408)*
 
 ### 5.5. X Bookmarks Pick: Why Won’t It Stay?!
-*Recent Seedance 2.0 video example found in X bookmarks.*
+*Recent happy horse 1.0 video example found in X bookmarks.*
 
 **Post Text:**
 ```
 Why Won’t It Stay?! 🎬
 
-Seedance 2.0 Prompt shared below
+happy horse 1.0 Prompt shared below
 ```
 
 **What is confirmed:**
@@ -321,7 +321,7 @@ Seedance 2.0 Prompt shared below
 
 **Prompt:**
 ```
-Create motion graphics animation inspired by traditional animation techniques. Based on the three examples shown, develop an animated sequence that captures the essence of classic animation while leveraging Seedance 2.0's advanced capabilities.
+Create motion graphics animation inspired by traditional animation techniques. Based on the three examples shown, develop an animated sequence that captures the essence of classic animation while leveraging happy horse 1.0's advanced capabilities.
 ```
 
 **Input Images:**
@@ -403,7 +403,7 @@ https://github.com/user-attachments/assets/b5e2cc4c-9025-497e-a81c-3189d97b274b
 
 ## 6. Short-form Drama & Web Series
 
-Captivating short-form content with dramatic narratives and viral appeal, ideal for mini-series production using **Seedance AI**.
+Captivating short-form content with dramatic narratives and viral appeal, ideal for mini-series production using **happy horse AI**.
 
 ### 6.1. Chinese New Year Gala Style: Zhen Huan & Hu Fei Show
 *A 10-second stage performance with contrasting historical formality and modern workplace humor.*
@@ -536,16 +536,16 @@ https://github.com/user-attachments/assets/ccf43991-7f39-4550-8845-4aff2cec3ed4
 
 ## 8. Resources
 
-- [Seedance 2.0 Official Page](https://xyq.jianying.com/) - Access to Seedance 2.0 model for testing
-- [Seedance 2.0 How to Use Guide](https://xyq.jianying.com/) - Learn how to master AI video generation
-- [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
+- [happy horse 1.0 Official Page](https://xyq.jianying.com/) - Access to happy horse 1.0 model for testing
+- [happy horse 1.0 How to Use Guide](https://xyq.jianying.com/) - Learn how to master AI video generation
+- [happy horse API Documentation](https://www.jianying.com/) - Integrate **happy horse AI** into your own workflow
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
 
 
 ## 9. Contributing
 
-Contributions are welcome! If you have an **awesome Seedance 2.0 prompt**, please submit a Pull Request.
+Contributions are welcome! If you have an **awesome happy horse 1.0 prompt**, please submit a Pull Request.
 
 1. Fork the repo.
 2. Create a new branch.
@@ -556,10 +556,10 @@ Please ensure you include the **Source** (link to the original creator) to give 
 
 ## 10. Star History
 
-<a href="https://star-history.com/#ZeroLu/awesome-seedance&Date">
+<a href="https://star-history.com/#ZeroLu/awesome-happy horse&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ZeroLu/awesome-seedance&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ZeroLu/awesome-seedance&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ZeroLu/awesome-seedance&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ZeroLu/awesome-happy horse&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ZeroLu/awesome-happy horse&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ZeroLu/awesome-happy horse&type=Date" />
  </picture>
 </a>
